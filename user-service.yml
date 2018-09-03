@@ -4,4 +4,4 @@ eureka:
       defaultZone: http://localhost:8762/eureka/
   
 user:
-  name: Mick
+  name: Ringo
