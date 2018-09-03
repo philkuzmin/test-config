@@ -3,4 +3,5 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8762/eureka/
   
-user.name=Paul
+user:
+  name: Paul
